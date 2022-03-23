@@ -1,5 +1,3 @@
-これはテスト
-
 git  --version
 
 git config --global user.name "erdespinne"
@@ -13,7 +11,7 @@ type null > index.html
 git status
 
 git add index.html
-git add . （すべてのファイルpush
+git add . （すべてのファイル）
 git status
 
 
