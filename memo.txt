@@ -11,7 +11,7 @@ type null > index.html
 git status
 
 git add index.html
-git add . （すべてのファイル）
+git add . （すべてのファイルpush
 git status
 
 
@@ -29,5 +29,11 @@ backlog
 git remote add origin https://github.com/erdespinne/mytest.git
 git push origin master
 
+git add index.html
+git commit -m "add memo"
+git push
 
 
+git pull origin master
+
+git log
